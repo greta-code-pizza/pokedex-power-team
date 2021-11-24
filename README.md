@@ -2,4 +2,4 @@
 Pierre-Luc Guimond
 Laurent Guillou
 Baptiste Lejeune
-miremont damien
+Miremont Damien
